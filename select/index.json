@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "WILD",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2026-01-13T10:17:37.189570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wild Mountain Thyme",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Wild_Mountain_Thyme_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Born to Be Wild",
+      "artist": "Steppenwolf",
+      "has_synced": true,
+      "path": "select/02_Born_to_Be_Wild_Steppenwolf.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Call of the Wild",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/03_The_Call_of_the_Wild_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wild As Her",
+      "artist": "Tyler Joe Miller",
+      "has_synced": true,
+      "path": "select/04_Wild_As_Her_Tyler_Joe_Miller.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wild Hearts",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/05_Wild_Hearts_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wild as Her",
+      "artist": "Corey Kent",
+      "has_synced": true,
+      "path": "select/06_Wild_as_Her_Corey_Kent.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Leave Her Wild",
+      "artist": "Tyler Rich",
+      "has_synced": true,
+      "path": "select/07_Leave_Her_Wild_Tyler_Rich.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Run Wild",
+      "artist": "Clayton Anderson",
+      "has_synced": false,
+      "path": "select/08_Run_Wild_Clayton_Anderson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Girl's Gone Wild",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/09_The_Girl's_Gone_Wild_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Wild Side of Life",
+      "artist": "Hank Thompson",
+      "has_synced": false,
+      "path": "select/10_The_Wild_Side_of_Life_Hank_Thompson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Wild Side Of Life (1952 Version)",
+      "artist": "Hank Thompson",
+      "has_synced": false,
+      "path": "select/11_The_Wild_Side_Of_Life_(1952_Version)_Hank_Thompson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wild Angels",
+      "artist": "Martina McBride",
+      "has_synced": false,
+      "path": "select/12_Wild_Angels_Martina_McBride.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wild Blue Yonder",
+      "artist": "Joe Diffie",
+      "has_synced": false,
+      "path": "select/13_Wild_Blue_Yonder_Joe_Diffie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wild Horses",
+      "artist": "The Flying Burrito Brothers",
+      "has_synced": true,
+      "path": "select/14_Wild_Horses_The_Flying_Burrito_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wild Love - Acoustic",
+      "artist": "Ashley Monroe",
+      "has_synced": true,
+      "path": "select/15_Wild_Love_-_Acoustic_Ashley_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wild Love (Acoustic)",
+      "artist": "Ashley Monroe",
+      "has_synced": true,
+      "path": "select/16_Wild_Love_(Acoustic)_Ashley_Monroe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WILD",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_WILD_BABYMONSTER.txt"
+    }
+  ]
+}
